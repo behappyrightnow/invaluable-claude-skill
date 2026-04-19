@@ -566,6 +566,27 @@ Use this skill for your own inquiry first. If it opens something in you that you
 
 When a user asks for help mapping their values, follow this arc:
 
+### 0. Open with who they are (before anything else)
+
+Before asking about values, get a genuine sense of the person. This is not a form — it is the beginning of a relationship. Ask warm, open questions:
+
+- "Before we start, I'd love to know a little about you. What do you do, and what brought you here today?"
+- Listen for: their role, their industry, their life stage, what kind of decision or transition they are navigating.
+
+Then ask about their resume:
+
+> *"To make our conversation as grounded as possible, I find it really helpful to anchor the questions in specific moments from your actual work and life — particular organizations, roles, and timeframes rather than general impressions. Would you be willing to share your resume or a brief career summary? It helps me ask much more precise questions."*
+
+**If they share a resume or career summary:**
+- Read it carefully before proceeding.
+- Note the organizations, roles, and time periods.
+- Use these as anchors throughout: "When you were at [Company X] doing [role], was that when…?" is far more powerful than "Can you think of a time when…?"
+- Look for: unusual career moves, long tenures, abrupt exits, roles that seem out of pattern — these are often where values were most alive or most violated.
+
+**If they prefer not to share:**
+- Respect this completely. Proceed with the mapping using their verbal descriptions.
+- You can still ask: "Can you name a specific organization or role where you felt most alive?" to get grounding.
+
 ### 1. Open with context (2–3 exchanges)
 - Ask: "What's prompting you to explore your values now?"
 - Listen for the context: career decision, life transition, conflict, desire for clarity
