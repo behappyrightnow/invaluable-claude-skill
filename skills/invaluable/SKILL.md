@@ -279,6 +279,24 @@ Once candidates are named:
 - Ask: "Does [HEART] have an emotional quality? If not, keep going deeper."
 - Ask: "Is [HEAD] prosaic enough? Could it appear in a job listing without sounding strange?"
 
+#### Phase 5: Differentiation Check
+Before declaring the Braid complete, check that Heart, Habit, and Head are genuinely distinct from each other.
+
+**The differentiation test**: Read all three values aloud. If two of them sound like they could mean the same thing — or if one seems like a restatement of another — more work is needed. The three values should feel like three different lenses, not the same lens described three ways.
+
+*Watch for*: Heart and Habit that both describe "connecting with people," or Head and Heart that both sound like mission statements. If they rhyme too closely, probe: "How is [X] different from [Y]? What can [X] do that [Y] cannot?"
+
+**The tobacco company test** (for a too-generic Heart):
+If the Heart value sounds like it could apply to almost any context — "collaboration and creativity," "making a difference," "helping people grow" — it lacks the specificity to discriminate between alternatives. A Heart value that works equally well at a children's hospital *and* a tobacco company is not yet a Heart value — it is a placeholder.
+
+When you detect this, ask: *"Would you be happy applying this Heart value working for a tobacco company?"*
+
+If the answer is no (and it usually is), say: *"That's important. The fact that you'd say no means your Heart value is more specific than what we've named so far. What is it about this value that a tobacco company couldn't honour? That's where we need to dig."*
+
+Keep probing until the Heart value is specific enough that it rules things out — that it would make certain contexts feel wrong and others feel right.
+
+**Head + Heart specificity**: The Head, taken together with the Heart, should point to a domain so specific that it couldn't belong to just anyone. If both Head and Heart are broadly applicable (e.g., Head: "education," Heart: "helping people learn"), they are not yet doing enough work. Push until the combination feels genuinely singular — a unique intersection that describes *this person* and no one else.
+
 ---
 
 ## Declaring the Braid: Descriptive to Normative (Chapter 7)
@@ -573,6 +591,38 @@ When a user asks for help mapping their values, follow this arc:
 - Read it back to the user
 - Ask: "Does that feel *true*? Not inspiring — true."
 - Adjust until the recognition lands
+
+### 5b. Run the differentiation and specificity checks
+- Check that Heart, Habit, and Head feel genuinely distinct — not restatements of each other
+- If the Heart sounds generic, apply the tobacco company test: *"Would you be happy applying this Heart value working for a tobacco company?"* If no, keep digging
+- Check that Head + Heart together point to a uniquely specific domain, not a broad one anyone could claim
+
+### 5c. Generate the narrative and validate completeness
+Once the Braid passes the differentiation and specificity checks, write a short narrative (3–5 sentences) that weaves Heart, Habit, and Head into a single, coherent portrait of the person. The narrative should not list the three values — it should *embody* them. Write it in the third person, as if describing someone to a stranger who is about to meet them for the first time.
+
+**Example** (using the author's own Braid):
+> *"Somik works in values-based decision-making — the domain where the question of what something is worth meets the question of how to choose. What you really get when you work with him is a quality of aliveness that breaks through structure: the moment when a framework dissolves into genuine understanding. His deepest habit is going counterculture — he swims against the dominant current not out of contrarianism, but because he cannot help noticing when the current is wrong. Together, these three things make him unusually good at helping people find the solid ground beneath their uncertainty."*
+
+Then ask the user, exactly as written:
+
+> *"When you read the above narrative about yourself, do you FEEL complete? If someone understands these three values about you, would you FEEL understood?"*
+
+If the answer is yes — fully, not just partially — the Braid is done. If there is any hesitation, any "almost but not quite," return to whichever value feels incomplete and keep digging. Do not declare the Braid finished until the felt sense of completeness arrives.
+
+#### Generating the Braid PDF
+
+Once the user confirms the Braid feels complete, generate a filled PDF by running from the project root:
+
+```bash
+cd /Users/somikraha/PycharmProjects/invaluable-claude-skill && python3 generate_braid_pdf.py \
+  --head "[HEAD value]" \
+  --heart "[HEART value]" \
+  --habit "[HABIT value]" \
+  --name "[Person's name]" \
+  --output "/Users/somikraha/Downloads/[FirstName]_[LastName]_Three_Goddess_Braid.pdf"
+```
+
+The script overlays the three values and name onto the template at calibrated box positions, auto-sizing the font to fit and wrapping to a second line when needed. Tell the user the full output path so they can open it.
 
 ### 6. Connect to the decision or context (optional)
 - If there is a decision at hand, apply the Six Elements of Decision Quality
