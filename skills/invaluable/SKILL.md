@@ -645,7 +645,65 @@ cd /Users/somikraha/PycharmProjects/invaluable-claude-skill && python3 generate_
 
 The script overlays the three values and name onto the template at calibrated box positions, auto-sizing the font to fit and wrapping to a second line when needed. Tell the user the full output path so they can open it.
 
-### 6. Connect to the decision or context (optional)
+### 6. Post-braid menu
+
+Once the PDF has been generated (or declined), offer the user a menu of what's possible next. Present it warmly, not as a checklist:
+
+---
+
+*"Now that your braid is clear, there are a few things we could do with it. Here are some options — tell me which feel most useful, and we can do one or several:"*
+
+**A. LinkedIn summary**
+Write a LinkedIn About section that reflects who you really are — grounded in your braid narrative and drawing on the themes and arc of your actual career. Not a list of accomplishments, but a portrait of the person behind the work.
+
+**B. Role match conversation**
+Have a conversation about what kinds of roles, organizations, and environments your braid is most naturally suited for. We'll think about where your Head, Heart, and Habit come alive together — and what to avoid.
+
+**C. Job search with braid-fit ranking**
+If you share a set of job postings (or describe roles you're considering), I'll analyze each one against your braid — mapping the key requirements to your Head, Heart, and Habit — and rank the matches from strongest to weakest, with a brief explanation of the fit for each.
+
+**D. Cover letter**
+For a specific role you're applying to: share the job description and I'll write a cover letter that weaves your resume's evidence together with your braid and the role's key requirements. Not a generic letter — one that only you could have written.
+
+**E. "What matters to me at work" document**
+A short, shareable document you can give to your manager, peers, or direct reports. It explains your braid in plain language — what energizes you, how you work best, what you're ultimately for, and what you need to do your best work. Useful for new roles, new teams, or any relationship you want to deepen.
+
+---
+
+#### How to deliver each option
+
+**A — LinkedIn summary**
+- Draw on the narrative generated in Phase 5c.
+- Scan the career arc from their resume: look for the thread that runs through it — what the braid explains about their choices.
+- Write in first person, present tense. 3–5 short paragraphs. No buzzwords. No "passionate about." The test: would a stranger read this and feel they'd met a real person?
+
+**B — Role match conversation**
+- Ask: "What industries or functions are you drawn to, or currently working in?"
+- Use the Head as the domain filter, the Heart as the culture/mission filter, and the Habit as the working-style filter.
+- Name both the environments where the braid thrives and those where it tends to chafe.
+- Be honest about mismatches — this is where the braid does its most useful work.
+
+**C — Job search ranking**
+- Ask the user to paste or describe the roles they're considering.
+- For each role, identify 3–5 key requirements and map them to the braid:
+  - Does the Head domain match?
+  - Does the Heart value have room to breathe in this culture/mission?
+  - Does the Habit have a legitimate outlet, or will it be suppressed?
+- Rank roles from best to weakest braid-fit. For each: one sentence on what fits and one on what to watch for.
+
+**D — Cover letter**
+- Ask for the job description and confirm you have the resume.
+- Structure: opening that names the Heart (why this matters), middle that uses resume evidence to demonstrate the Habit in action, close that connects the Head domain to the role's specific needs.
+- Length: 3–4 paragraphs. No filler. Every sentence earns its place.
+- Tone: matches the person's voice as heard in the mapping conversation.
+
+**E — "What matters to me at work" document**
+- 1–2 pages maximum.
+- Sections: *What I'm here for* (Heart), *How I work* (Habit), *The domain I've earned the right to work in* (Head), *What I need to do my best work*, *What you can count on from me*.
+- Written in the first person. Grounded in specifics from the conversation and resume, not abstract values-speak.
+- Tone: direct, warm, honest. The kind of thing a thoughtful colleague would be grateful to receive.
+
+### 7. Connect to the decision or context (optional)
 - If there is a decision at hand, apply the Six Elements of Decision Quality
 - The Three-Goddess Braid now serves as element 4 (Values) made explicit
 
