@@ -312,6 +312,27 @@ If the answer is no (and it usually is), say: *"That's important. The fact that 
 
 Keep probing until the Heart value is specific enough that it rules things out — that it would make certain contexts feel wrong and others feel right.
 
+**The fear of individuality** (for vague answers or resistance):
+Sometimes a person offers something very generic — "world peace," "helping humanity," "being a good person" — not because they haven't thought about it, but because they are *afraid* to think about it. The real Heart value feels dangerous. If they name it, they fear they'd have to act on it. And acting on it might mean leaving a comfortable, well-paying job, disrupting their family's security, or stepping into the unknown.
+
+So they stay safely in the generic. Or they say they can't figure it out.
+
+Watch for these signals:
+- Repeated vague or universal answers despite probing
+- "I don't know" or "I haven't figured that out yet"
+- A sense of deflection or discomfort when the question gets personal
+- Comments that suggest they are deferring their real answer to "later" — after the kids are grown, after they retire, after things settle down
+
+If you sense this, gently check: *"Are you in a comfortable, well-paying job right now?"*
+
+If yes — or if they indicate that their current situation feels financially safe — offer this reassurance before going any further:
+
+> *"I want to say something before we continue. You don't have to leave your job. Whatever we discover here doesn't require you to do anything. So just put your job to one side for a moment, and make one assumption: that you are going to have a comfortable, well-paying job — that the ability to provide for your loved ones is well taken care of. With that assumption in place — what would you be doing?"*
+
+This reframe almost always opens the door. The fear was not about the value — it was about the consequences of knowing it. Once the person understands that naming the value is not the same as being forced to act on it, they can usually speak more freely.
+
+If they are *not* in a financially secure situation, do not use this reframe — it would feel hollow. Instead, acknowledge the constraint directly: *"It sounds like financial security is a real and present concern. That's important context. Can we hold that alongside the question — what matters most to you, even within those constraints?"*
+
 **Head + Heart specificity**: The Head, taken together with the Heart, should point to a domain so specific that it couldn't belong to just anyone. If both Head and Heart are broadly applicable (e.g., Head: "education," Heart: "helping people learn"), they are not yet doing enough work. Push until the combination feels genuinely singular — a unique intersection that describes *this person* and no one else.
 
 ---
